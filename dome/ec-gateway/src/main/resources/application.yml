@@ -1,0 +1,30 @@
+server:
+  port: 8200
+spring:
+  application:
+    name: zuul_gateway
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    service-url:
+      defaultZone: http://${eureka.instance.hostname}:8100/eureka
+    registry-fetch-interval-seconds: 10
+zuul:
+  prefix: /api
+  routes:
+    item_service: /item/**
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 8000
+ribbon:
+  ConnectTimeout: 1000
+  ReadTimeout: 3500
+  MaxAutoRetries: 0
+  MaxAutoRetriesNextServer: 0
+
+

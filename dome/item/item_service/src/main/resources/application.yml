@@ -1,0 +1,22 @@
+server:
+  port: 8101
+spring:
+  application:
+    name: item_service
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://${eureka.instance.hostname}:3306/ec?useSSL=true&serverTimezone=GMT
+    username: root
+    password: j2ee
+eureka:
+  instance:
+    hostname: localhost
+    prefer-ip-address: true
+    ip-address: 127.0.0.1
+  client:
+    service-url:
+      defaultZone: http://${eureka.instance.hostname}:8100/eureka
+
+
+
+
