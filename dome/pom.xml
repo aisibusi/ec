@@ -7,13 +7,12 @@
 	<packaging>pom</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<modules>
-		<module>user_service</module>
-		<module>user_consumer</module>
 		<module>ec-registry</module>
 		<module>ec-gateway</module>
 		<module>item</module>
 		<module>ec_common</module>
-	</modules>
+        <module>ec_upload</module>
+    </modules>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -36,12 +35,6 @@
 				<version>${spring-cloud.version}</version>
 				<type>pom</type>
 				<scope>import</scope>
-			</dependency>
-
-			<dependency>
-				<groupId>com.github.pagehelper</groupId>
-				<artifactId>pagehelper-spring-boot-starter</artifactId>
-				<version>${pageHelper.starter.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>com.github.tobato</groupId>
@@ -69,10 +62,10 @@
 			<version>1.18.8</version>
 		</dependency>
 		<dependency>
-			<groupId>junit</groupId>
-			<artifactId>junit</artifactId>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
-		</dependency>
+        </dependency>
 		<dependency>
 			<groupId>javax.xml.bind</groupId>
 			<artifactId>jaxb-api</artifactId>

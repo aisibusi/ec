@@ -1,6 +1,6 @@
 package com.ec.item.service.impl;
 
-import com.ec.item.dao.CategoryDao;
+import com.ec.item.repository.CategoryRepository;
 import com.ec.item.service.CategoryService;
 import com.lh.ec.common.enums.ExceptionEnum;
 import com.lh.ec.common.exception.EcException;
@@ -15,11 +15,11 @@ import java.util.List;
 public class CategoryServiceImpl implements CategoryService {
 
     @Autowired
-    private CategoryDao categoryDao;
+    private CategoryRepository categoryRepository;
 
     @Override
     public List<Category> findByPid(Long pid) {
-        List<Category> categoryList = categoryDao.findByParentIdIs(pid);
+        List<Category> categoryList = categoryRepository.findByParentIdIs(pid);
 
         if (CollectionUtils.isEmpty(categoryList)) {
             throw new EcException(ExceptionEnum.CATEGORY_NOT_FOUND);

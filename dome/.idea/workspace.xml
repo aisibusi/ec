@@ -2,45 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="221901e6-e27c-40f8-a34c-d829c19ece1d" name="Default Changelist" comment="BaseLine">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_autoconfigure_1_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_starter_1_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_15_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_zuul_zuul_core_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_9_0_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_zuul_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_zuul_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ec-gateway/src/main/java/com/ec/gateway/Gateway.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ec-gateway/src/main/java/com/ec/gateway/config/GlobalCorsConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ec-gateway/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ec-gateway/target/classes/application.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ec-gateway/target/classes/com/ec/gateway/Gateway.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ec-registry/target/classes/application.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ec-registry/target/classes/com/ec/common/RegistryServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ec_common/ec_common.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ec_common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ec_common/src/main/java/com/lh/ec/common/utils/JsonUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ec_common/src/main/java/com/lh/ec/common/vo/PageResult.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ec_common/target/classes/com/lh/ec/common/advice/CommonExceptionHandler.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ec_common/target/classes/com/lh/ec/common/enums/ExceptionEnum.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ec_common/target/classes/com/lh/ec/common/exception/EcException.class" afterDir="false" />
@@ -49,26 +30,55 @@
       <change afterPath="$PROJECT_DIR$/ec_common/target/test-classes/testApp$1.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ec_common/target/test-classes/testApp$User.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ec_common/target/test-classes/testApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka_server/eureka_server.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka_server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka_server/src/main/java/com/lh/eureka/EurekaServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka_server/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/item/item.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/item/item_interface/item_interface.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/item/item_interface/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ec_upload/ec_upload.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ec_upload/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ec_upload/src/main/java/com/ec/upload/UploadApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ec_upload/src/main/java/com/ec/upload/config/UploadProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ec_upload/src/main/java/com/ec/upload/service/UploadService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ec_upload/src/main/java/com/ec/upload/service/impl/UploadServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ec_upload/src/main/java/com/ec/upload/web/UploadController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ec_upload/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/item/item_interface/src/main/java/com/lh/ec/item/pojo/Brand.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/item/item_interface/target/classes/com/lh/ec/item/pojo/Category.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/item/item_service/item_service.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/item/item_service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/item/item_service/src/main/java/com/ec/item/ItemApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/item/item_service/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/item/item_service/target/classes/META-INF/item_service.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/item/item_service/src/main/java/com/ec/item/repository/BrandRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/item/item_service/src/main/java/com/ec/item/service/BrandService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/item/item_service/src/main/java/com/ec/item/service/impl/BrandServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/item/item_service/src/main/java/com/ec/item/web/BrandController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/item/item_service/src/test/java/service_test.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/item/item_service/target/classes/application.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/item/item_service/target/classes/com/ec/item/ItemApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/item/item_service/target/classes/com/ec/item/dao/CategoryDao.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/item/item_service/target/classes/com/ec/item/service/CategoryService.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/item/item_service/target/classes/com/ec/item/service/impl/CategoryServiceImpl.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/item/item_service/target/classes/com/ec/item/web/CategoryController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/item/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_autoconfigure_1_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_starter_1_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dome.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dome.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-gateway/ec-gateway.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ec-gateway/ec-gateway.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ec-gateway/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-registry/ec-registry.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ec-registry/ec-registry.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec_common/ec_common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ec_common/ec_common.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec_common/src/main/java/com/lh/ec/common/enums/ExceptionEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/ec_common/src/main/java/com/lh/ec/common/enums/ExceptionEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/item/item.iml" beforeDir="false" afterPath="$PROJECT_DIR$/item/item.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/item/item_interface/item_interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/item/item_interface/item_interface.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/item/item_service/item_service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/item/item_service/item_service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/item/item_service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/item/item_service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/item/item_service/src/main/java/com/ec/item/ItemApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/item/item_service/src/main/java/com/ec/item/ItemApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/item/item_service/src/main/java/com/ec/item/dao/CategoryDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/item/item_service/src/main/java/com/ec/item/repository/CategoryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/item/item_service/src/main/java/com/ec/item/service/impl/CategoryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/item/item_service/src/main/java/com/ec/item/service/impl/CategoryServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/item/item_service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/item/item_service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -87,6 +97,9 @@
     <ignored path="../py37/" />
     <ignored path="../python/" />
     <ignored path="user_consumer/" />
+    <ignored mask="test" />
+    <ignored path="$PROJECT_DIR$/ec_upload/target/" />
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
     <manually-removed-from-ignored>
       <directory path="../.idea/" />
       <directory path="../.metadata/" />
@@ -110,10 +123,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ec-gateway/src/main/java/com/ec/gateway/config/GlobalCorsConfig.java">
+        <entry file="file://$PROJECT_DIR$/ec_upload/src/main/java/com/ec/upload/web/UploadController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="16" column="59" lean-forward="true" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+            <state relative-caret-position="449">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -122,10 +135,67 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.7.RELEASE/spring-web-5.1.7.RELEASE.jar!/org/springframework/web/filter/OncePerRequestFilter.class">
+        <entry file="file://$PROJECT_DIR$/ec-gateway/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="240">
+              <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ec_upload/src/main/java/com/ec/upload/config/UploadProperties.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="11" column="29" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ec_upload/src/main/java/com/ec/upload/service/impl/UploadServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="49" column="25" lean-forward="true" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ec_common/src/main/java/com/lh/ec/common/enums/ExceptionEnum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ec_upload/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ec_upload/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ec_upload/src/main/java/com/ec/upload/UploadApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -150,7 +220,12 @@
       <find>400</find>
       <find>204</find>
       <find>Invalid CORS request</find>
+      <find>specificationfa</find>
+      <find>ju</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
     <dirStrings>
       <dir>C:\Users\Administrator\.m2\repository\ch\qos\logback\logback-classic\1.2.3\logback-classic-1.2.3.jar</dir>
       <dir>D:\Haye\develop\workspace\dome\ec-gateway</dir>
@@ -165,60 +240,63 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="dummy://restClient/response84.txt" root0="SKIP_INSPECTION" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Eureka_Server1/src/main/resources/application.yaml" />
-        <option value="$PROJECT_DIR$/Eureka_Server/src/main/java/com/eureka/server/EuApplication.java" />
-        <option value="$PROJECT_DIR$/Eureka_Server/src/main/resources/application.yaml" />
-        <option value="$PROJECT_DIR$/Eureka_Server/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/application.yaml" />
-        <option value="$PROJECT_DIR$/eureka_server/src/main/java/com/lh/eureka/EurekaServer.java" />
-        <option value="$PROJECT_DIR$/eureka_server/pom.xml" />
-        <option value="$PROJECT_DIR$/eureka_server/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/user_service/pom.xml" />
-        <option value="$PROJECT_DIR$/user_service/src/main/java/com/lh/user_service/UserApplication.java" />
-        <option value="$PROJECT_DIR$/user_consumer/pom.xml" />
-        <option value="$PROJECT_DIR$/user_service/src/main/resources/application.yaml" />
-        <option value="$PROJECT_DIR$/user_consumer/src/main/java/user_consumer/UserCApplication.java" />
-        <option value="$PROJECT_DIR$/user_consumer/src/main/resources/application.yaml" />
-        <option value="$PROJECT_DIR$/user_consumer/src/main/java/user_consumer/controller/HelloController.java" />
-        <option value="$PROJECT_DIR$/registry/pom.xml" />
-        <option value="$PROJECT_DIR$/registry/src/main/java/com/ec/common/RegistryServer.java" />
-        <option value="$PROJECT_DIR$/registry/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/ec-gateway/pom.xml" />
-        <option value="$PROJECT_DIR$/ec-gateway/src/main/java/com/ec/gateway/Gateway.java" />
-        <option value="$PROJECT_DIR$/ec-registry/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/item/item_service/src/main/java/com/ec/ItemApplication.java" />
-        <option value="$PROJECT_DIR$/ec_common/src/main/java/com/lh/ec/common/utils/JsonUtils.java" />
-        <option value="$PROJECT_DIR$/ec_common/src/test/java/testApp.java" />
-        <option value="$PROJECT_DIR$/ec_common/src/main/java/com/lh/ec/common/utils/CommonExceptionHandler.java" />
         <option value="$PROJECT_DIR$/ec_common/pom.xml" />
         <option value="$PROJECT_DIR$/ec_common/src/main/java/com/lh/ec/common/enums/ExceptionEnums.java" />
         <option value="$PROJECT_DIR$/ec_common/src/main/java/com/lh/ec/common/exception/EcException.java" />
         <option value="$PROJECT_DIR$/ec_common/src/main/java/com/lh/ec/common/advice/CommonExceptionHandler.java" />
-        <option value="$PROJECT_DIR$/ec-gateway/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/item/item_interface/src/main/java/com.ec.item.pojopojo.Category.java" />
-        <option value="$PROJECT_DIR$/item/item_interface/src/main/java/com/lh/ec/item/pojo/Category.java" />
         <option value="$PROJECT_DIR$/item/item_service/src/main/java/com/ec/service/CategoryServiceImp.java" />
         <option value="$PROJECT_DIR$/item/item_service/src/main/java/com/ec/service/CategoryServiceImpl.java" />
         <option value="$PROJECT_DIR$/item/item_service/src/main/java/com/ec/service/CategoryService.java" />
         <option value="$PROJECT_DIR$/item/item_service/src/main/java/com/ec/item/impl/CategoryServiceImpl.java" />
         <option value="$PROJECT_DIR$/item/item_service/src/main/java/com/ec/service/impl/CategoryServiceImpl.java" />
         <option value="$PROJECT_DIR$/item/item_service/src/main/java/com/ec/item/service/CategoryService.java" />
-        <option value="$PROJECT_DIR$/item/item_service/pom.xml" />
-        <option value="$PROJECT_DIR$/ec_common/src/main/java/com/lh/ec/common/enums/ExceptionEnum.java" />
         <option value="$PROJECT_DIR$/ec_common/src/main/java/com/lh/ec/common/vo/ExceptionResult.java" />
         <option value="$PROJECT_DIR$/item/item_service/src/main/java/com/ec/item/web/CategoryController.java" />
         <option value="$PROJECT_DIR$/item/item_interface/pom.xml" />
         <option value="$PROJECT_DIR$/item/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/item/item_service/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/item/item_service/src/main/java/com/ec/item/dao/impl/CategoryDaoImpl.java" />
-        <option value="$PROJECT_DIR$/item/item_service/src/main/java/com/ec/item/ItemApplication.java" />
-        <option value="$PROJECT_DIR$/item/item_service/src/main/java/com/ec/item/dao/CategoryDao.java" />
         <option value="$PROJECT_DIR$/item/item_service/src/main/java/com/ec/item/service/impl/CategoryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/item/item_interface/src/main/java/com/lh/ec/item/pojo/Category.java" />
+        <option value="$PROJECT_DIR$/item/item_service/src/main/java/com/ec/item/dao/Brand.java" />
+        <option value="$PROJECT_DIR$/item/item_service/src/main/java/com/ec/item/dao/CategoryDao.java" />
+        <option value="$PROJECT_DIR$/item/item_service/src/main/java/com/ec/item/dao/BrandDao.java" />
+        <option value="$PROJECT_DIR$/ec_common/src/main/java/com/lh/ec/common/vo/PageResult.java" />
+        <option value="$PROJECT_DIR$/item/item_interface/src/test/java/test.java" />
+        <option value="$PROJECT_DIR$/item/item_service/src/main/java/com/ec/item/dao/BrandRepository.java" />
+        <option value="$PROJECT_DIR$/item/item_service/src/main/java/com/ec/item/dao/specs/BrandSpecs.java" />
+        <option value="$PROJECT_DIR$/item/item_service/src/main/java/com/ec/item/repository/specs/BrandSpecs.java" />
+        <option value="$PROJECT_DIR$/ec-registry/src/main/java/RegistryServer.java" />
+        <option value="$PROJECT_DIR$/ec-registry/src/main/java/com/ec/RegistryServer.java" />
         <option value="$PROJECT_DIR$/ec-gateway/src/main/java/com/ec/gateway/config/GlobalCorsConfig.java" />
+        <option value="$PROJECT_DIR$/ec-registry/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/ec-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/ec-gateway/src/main/java/com/ec/gateway/Gateway.java" />
+        <option value="$PROJECT_DIR$/item/item_service/src/main/java/com/ec/item/ItemApplication.java" />
+        <option value="$PROJECT_DIR$/item/item_interface/src/main/java/com/lh/ec/item/pojo/Brand.java" />
+        <option value="$PROJECT_DIR$/item/item_service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/item/item_service/src/main/java/com/ec/item/service/BrandService.java" />
+        <option value="$PROJECT_DIR$/item/item_service/src/main/java/com/ec/item/service/impl/BrandServiceImpl.java" />
+        <option value="$PROJECT_DIR$/item/item_service/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/item/item_service/src/test/java/service_test.java" />
+        <option value="$PROJECT_DIR$/item/item_service/src/main/java/com/ec/item/repository/BrandRepository.java" />
+        <option value="$PROJECT_DIR$/item/item_service/src/main/java/com/ec/item/web/BrandController.java" />
+        <option value="$PROJECT_DIR$/ec-gateway/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/ec_upload/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/ec_upload/src/main/java/com/ec/upload/service/UploadService.java" />
+        <option value="$PROJECT_DIR$/ec_upload/src/main/java/com/ec/upload/config/UploadProperties.java" />
+        <option value="$PROJECT_DIR$/ec_upload/pom.xml" />
+        <option value="$PROJECT_DIR$/ec_common/src/main/java/com/lh/ec/common/enums/ExceptionEnum.java" />
+        <option value="$PROJECT_DIR$/ec_upload/src/main/java/com/ec/upload/service/impl/UploadServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ec_upload/src/main/java/com/ec/upload/web/UploadController.java" />
+        <option value="$PROJECT_DIR$/ec_upload/src/main/java/com/ec/upload/UploadApplication.java" />
       </list>
     </option>
   </component>
@@ -251,7 +329,9 @@
     <option name="width" value="1346" />
     <option name="height" value="697" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <flattenPackages ProjectPane="false" />
@@ -279,28 +359,45 @@
             <path>
               <item name="dome" type="b2602c69:ProjectViewProjectNode" />
               <item name="dome" type="462c0819:PsiDirectoryNode" />
-              <item name="ec-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="ec_upload" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dome" type="b2602c69:ProjectViewProjectNode" />
               <item name="dome" type="462c0819:PsiDirectoryNode" />
-              <item name="ec-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="ec_upload" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dome" type="b2602c69:ProjectViewProjectNode" />
               <item name="dome" type="462c0819:PsiDirectoryNode" />
-              <item name="ec-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="ec_upload" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dome" type="b2602c69:ProjectViewProjectNode" />
               <item name="dome" type="462c0819:PsiDirectoryNode" />
-              <item name="ec-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="ec_upload" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dome" type="462c0819:PsiDirectoryNode" />
+              <item name="ec_upload" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="upload" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dome" type="462c0819:PsiDirectoryNode" />
+              <item name="ec_upload" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -320,7 +417,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/item/item_service/src/main/java/com/ec/service" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ec-gateway/src/main/java/com/ec/gateway/config" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ec_upload/src/main/java/com/ec/upload" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -328,22 +425,227 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
+    <property name="settings.editor.selected.configurable" value="spring.boot" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Haye\develop\workspace\dome\ec_upload\src\main\java\com\ec\upload" />
+      <recent name="D:\Haye\develop\workspace\dome\ec_upload\src\main\resources" />
+      <recent name="D:\Haye\develop\workspace\dome\ec_common\src\main\java\com\lh\ec\common\vo" />
       <recent name="D:\Haye\develop\workspace\dome\ec-gateway\src\main\java\com\ec\gateway\config" />
       <recent name="D:\Haye\develop\workspace\dome\item\item_interface\src\main\java\com\lh\ec\item\pojo" />
-      <recent name="D:\Haye\develop\workspace\dome\item\item_interface\src\main\java" />
-      <recent name="D:\Haye\develop\workspace\dome\item\item_service\src\main\resources" />
-      <recent name="D:\Haye\develop\workspace\dome\Eureka_Server1\src\main\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="user_consumer" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ec.upload.service.impl" />
+      <recent name="com.ec.item.service.impl" />
       <recent name="com.ec.item.dao.impl" />
     </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8200" />
+          <option name="urlPath" value="api/upload/image" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="multipart/form-data" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveFileToSend" value="true" />
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="$PROJECT_DIR$/../../../2岁T-SHIRT/2868398_0.jpg" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8200" />
+          <option name="urlPath" value="api/upload/image" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="file" />
+                <option name="value" value="file" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="haveFileToSend" value="true" />
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="file" />
+          <option name="filesToSend" value="$PROJECT_DIR$/../../../2岁T-SHIRT/2868398_0.jpg" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8200" />
+          <option name="urlPath" value="api/upload/image" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="haveFileToSend" value="true" />
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="file" />
+          <option name="filesToSend" value="$PROJECT_DIR$/../../../2岁T-SHIRT/2868398_0.jpg" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8200" />
+          <option name="urlPath" value="api/upload/image" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="file" />
+                <option name="value" value="" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveFileToSend" value="true" />
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="$PROJECT_DIR$/../../../2岁T-SHIRT/2868398_0.jpg" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8200" />
+          <option name="urlPath" value="api/upload/test" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="$PROJECT_DIR$/../../../2岁T-SHIRT/2868398_0.jpg" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8200" />
+          <option name="urlPath" value="/api/upload/test" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="$PROJECT_DIR$/../../../2岁T-SHIRT/2868398_0.jpg" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8200" />
+          <option name="urlPath" value="/api/upload/image" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveFileToSend" value="true" />
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="$PROJECT_DIR$/../../../2岁T-SHIRT/2868398_0.jpg" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8200" />
+          <option name="urlPath" value="api/upload/image" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveFileToSend" value="true" />
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="$PROJECT_DIR$/../../../2岁T-SHIRT/2868398_0.jpg" />
+        </RestClientRequest>
+      </list>
+    </option>
   </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
@@ -363,12 +665,19 @@
     </option>
     <option name="contentProportion" value="0.13446677" />
   </component>
-  <component name="RunManager" selected="JUnit.testApp.testJsonUtils">
-    <configuration name="testApp.testJsonUtils" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ec_common" />
+  <component name="RunManager" selected="Spring Boot.UploadApplication">
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="item_interface" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="service_test.testSaveBrand" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="item_service" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="testApp" />
-      <option name="METHOD_NAME" value="testJsonUtils" />
+      <option name="MAIN_CLASS_NAME" value="service_test" />
+      <option name="METHOD_NAME" value="testSaveBrand" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -421,8 +730,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Gateway" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <configuration name="Gateway" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="ec-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ec.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.ec.gateway.Gateway" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -435,22 +750,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RegistryServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <configuration name="RegistryServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="ec-registry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ec.common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.ec.common.RegistryServer" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UploadApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ec_upload" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ec.upload.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ec.upload.UploadApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="JUnit.testApp.testJsonUtils" />
+      <item itemvalue="Spring Boot.ItemApplication" />
+      <item itemvalue="Application.test" />
       <item itemvalue="Spring Boot.RegistryServer" />
       <item itemvalue="Spring Boot.Gateway" />
-      <item itemvalue="Spring Boot.ItemApplication" />
+      <item itemvalue="JUnit.service_test.testSaveBrand" />
+      <item itemvalue="Spring Boot.UploadApplication" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.testApp.testJsonUtils" />
+        <item itemvalue="Spring Boot.Gateway" />
+        <item itemvalue="Spring Boot.RegistryServer" />
+        <item itemvalue="Spring Boot.UploadApplication" />
+        <item itemvalue="JUnit.service_test.testSaveBrand" />
+        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -475,7 +815,7 @@
       <workItem from="1560543272567" duration="5479000" />
       <workItem from="1560612548648" duration="4384000" />
       <workItem from="1560618390682" duration="339000" />
-      <workItem from="1560619852702" duration="17515000" />
+      <workItem from="1560619852702" duration="81882000" />
     </task>
     <task id="LOCAL-00001" summary="BaseLine">
       <created>1560617310007</created>
@@ -484,34 +824,50 @@
       <option name="project" value="LOCAL" />
       <updated>1560617310007</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="BaseLine">
+      <created>1560809381020</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1560809381020</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="testApp_testJsonUtils - 2019.06.12 at 22h 47m 25s.xml">
-      <configuration name="testApp.testJsonUtils" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="testApp_testJsonUtils - 2019.06.12 at 22h 49m 00s.xml">
-      <configuration name="testApp.testJsonUtils" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="testApp_testJsonUtils - 2019.06.12 at 22h 49m 49s.xml">
-      <configuration name="testApp.testJsonUtils" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="testApp_testJsonUtils - 2019.06.12 at 22h 50m 31s.xml">
-      <configuration name="testApp.testJsonUtils" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="testApp_testJsonUtils - 2019.06.12 at 22h 52m 12s.xml">
-      <configuration name="testApp.testJsonUtils" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="testApp_testJsonUtils - 2019.06.12 at 22h 52m 53s.xml">
-      <configuration name="testApp.testJsonUtils" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="testApp_testJsonUtils - 2019.06.12 at 22h 54m 39s.xml">
       <configuration name="testApp.testJsonUtils" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="service_test_testSaveBrand - 2019.06.20 at 21h 33m 17s.xml">
+      <configuration name="service_test.testSaveBrand" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="service_test_testSaveBrand - 2019.06.20 at 21h 36m 32s.xml">
+      <configuration name="service_test.testSaveBrand" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="service_test_testSaveBrand - 2019.06.20 at 21h 58m 58s.xml">
+      <configuration name="service_test.testSaveBrand" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="service_test_testSaveBrand - 2019.06.20 at 22h 02m 36s.xml">
+      <configuration name="service_test.testSaveBrand" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="service_test_testSaveBrand - 2019.06.20 at 22h 12m 20s.xml">
+      <configuration name="service_test.testSaveBrand" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="service_test_testSaveBrand - 2019.06.20 at 22h 19m 54s.xml">
+      <configuration name="service_test.testSaveBrand" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="service_test_testSaveBrand - 2019.06.20 at 22h 24m 15s.xml">
+      <configuration name="service_test.testSaveBrand" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="service_test_testSaveBrand - 2019.06.20 at 22h 29m 35s.xml">
+      <configuration name="service_test.testSaveBrand" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="service_test_testSaveBrand - 2019.06.24 at 16h 00m 56s.xml">
+      <configuration name="service_test.testSaveBrand" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="132370000" />
+    <option name="totallyTimeSpent" value="196737000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -524,16 +880,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="753" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.3443396" visible="true" weight="0.12481089" />
-      <window_info id="Structure" order="1" sideWeight="0.6556604" side_tool="true" visible="true" weight="0.12481089" />
-      <window_info id="Web" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6644951" visible="true" weight="0.1913767" />
+      <window_info id="Structure" order="1" sideWeight="0.3355049" side_tool="true" visible="true" weight="0.1913767" />
+      <window_info id="Web" order="2" sideWeight="0.33564013" side_tool="true" weight="0.1913767" />
       <window_info id="Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="REST Client" weight="0.5088853" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49923664" weight="0.533871" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956383" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49923664" weight="0.53311795" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990307" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49923664" weight="0.32998326" />
@@ -543,9 +901,9 @@
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.3279483" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50076336" side_tool="true" weight="0.32998326" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.32741934" />
-      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32903227" />
-      <window_info anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.31502423" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3263328" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.3279483" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.50403875" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -615,342 +973,205 @@
     <MESSAGE value="BaseLine" />
     <option name="LAST_COMMIT_MESSAGE" value="BaseLine" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ec_upload/src/main/java/com/ec/upload/service/impl/UploadServiceImpl.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ec_upload/src/main/java/com/ec/upload/web/UploadController.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.7.RELEASE/spring-web-5.1.7.RELEASE-sources.jar!/org/springframework/http/HttpStatus.java" />
-    <entry file="file://$PROJECT_DIR$/ec_common/src/main/java/com/lh/ec/common/exception/EcException.java">
+    <entry file="file://$PROJECT_DIR$/ec-gateway/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-          <folding>
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-            <element signature="e#427#428#0" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ec_common/src/main/java/com/lh/ec/common/vo/ExceptionResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ec-registry/src/main/java/com/ec/common/RegistryServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#395#396#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ec-registry/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ec_common/src/main/java/com/lh/ec/common/enums/ExceptionEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/item/item_service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://MAVEN/com.lh.ec.service:item:0.0.1-SNAPSHOT">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>MAVEN</ID>
-          <OriginalElement>com.lh.ec.service:item:0.0.1-SNAPSHOT</OriginalElement>
-          <nodes>
-            <node x="0.0" y="145.125">com.lh.ec.service:item:0.0.1-SNAPSHOT</node>
-            <node x="69.0" y="0.0">org.springframework.boot:spring-boot-starter-data-jpa:jar:2.1.8.RELEASE</node>
-            <node x="105.5" y="41.0">org.apache.commons:commons-lang3:jar:3.4</node>
-            <node x="130.0" y="82.0">org.projectlombok:lombok:jar:1.18.8</node>
-            <node x="140.5" y="123.0">junit:junit:jar:4.12</node>
-            <node x="293.0" y="123.0">junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3</node>
-            <node x="129.0" y="205.0">javax.xml.bind:jaxb-api:jar:2.3.1</node>
-            <node x="280.0" y="188.75">javax.xml.bind:jaxb-api:jar:2.3.1/javax.activation:javax.activation-api:jar:1.2.0</node>
-            <node x="125.5" y="164.0">com.sun.xml.bind:jaxb-impl:jar:2.3.0</node>
-            <node x="116.0" y="270.75">org.glassfish.jaxb:jaxb-runtime:jar:2.3.0</node>
-            <node x="307.5" y="229.75">org.glassfish.jaxb:jaxb-runtime:jar:2.3.0/org.glassfish.jaxb:jaxb-core:jar:2.3.0</node>
-            <node x="493.0" y="209.25">org.glassfish.jaxb:jaxb-runtime:jar:2.3.0/org.glassfish.jaxb:jaxb-core:jar:2.3.0/org.glassfish.jaxb:txw2:jar:2.3.1</node>
-            <node x="434.0" y="250.25">org.glassfish.jaxb:jaxb-runtime:jar:2.3.0/org.glassfish.jaxb:jaxb-core:jar:2.3.0/com.sun.istack:istack-commons-runtime:jar:3.0.5</node>
-            <node x="314.5" y="270.75">org.glassfish.jaxb:jaxb-runtime:jar:2.3.0/org.jvnet.staxex:stax-ex:jar:1.7.8</node>
-            <node x="303.5" y="311.75">org.glassfish.jaxb:jaxb-runtime:jar:2.3.0/com.sun.xml.fastinfoset:FastInfoset:jar:1.2.13</node>
-            <node x="125.0" y="311.75">javax.activation:activation:jar:1.1.1</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.lh.ec.service:item:0.0.1-SNAPSHOT" target="org.apache.commons:commons-lang3:jar:3.4">
-              <point x="24.5" y="-6.5625" />
-              <point x="69.0" y="51.5" />
-              <point x="-59.0" y="-0.0" />
-            </edge>
-            <edge source="org.glassfish.jaxb:jaxb-runtime:jar:2.3.0/org.glassfish.jaxb:jaxb-core:jar:2.3.0" target="org.glassfish.jaxb:jaxb-runtime:jar:2.3.0/org.glassfish.jaxb:jaxb-core:jar:2.3.0/org.glassfish.jaxb:txw2:jar:2.3.1">
-              <point x="39.5" y="-5.25" />
-              <point x="414.0" y="235.0" />
-              <point x="434.0" y="219.75" />
-              <point x="-25.0" y="-0.0" />
-            </edge>
-            <edge source="com.lh.ec.service:item:0.0.1-SNAPSHOT" target="com.sun.xml.bind:jaxb-impl:jar:2.3.0">
-              <point x="24.5" y="1.3125" />
-              <point x="69.0" y="174.5" />
-              <point x="-39.0" y="-0.0" />
-            </edge>
-            <edge source="org.glassfish.jaxb:jaxb-runtime:jar:2.3.0" target="org.glassfish.jaxb:jaxb-runtime:jar:2.3.0/org.glassfish.jaxb:jaxb-core:jar:2.3.0">
-              <point x="48.5" y="-7.0" />
-              <point x="260.0" y="274.25" />
-              <point x="280.0" y="245.5" />
-              <point x="-39.5" y="5.25" />
-            </edge>
-            <edge source="junit:junit:jar:4.12" target="junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3">
-              <point x="24.0" y="-0.0" />
-              <point x="-54.0" y="-0.0" />
-            </edge>
-            <edge source="org.glassfish.jaxb:jaxb-runtime:jar:2.3.0" target="org.glassfish.jaxb:jaxb-runtime:jar:2.3.0/com.sun.xml.fastinfoset:FastInfoset:jar:1.2.13">
-              <point x="48.5" y="7.0" />
-              <point x="260.0" y="288.25" />
-              <point x="280.0" y="322.25" />
-              <point x="-43.5" y="-0.0" />
-            </edge>
-            <edge source="com.lh.ec.service:item:0.0.1-SNAPSHOT" target="org.glassfish.jaxb:jaxb-runtime:jar:2.3.0">
-              <point x="24.5" y="6.5625" />
-              <point x="69.0" y="281.25" />
-              <point x="-48.5" y="-0.0" />
-            </edge>
-            <edge source="com.lh.ec.service:item:0.0.1-SNAPSHOT" target="javax.xml.bind:jaxb-api:jar:2.3.1">
-              <point x="24.5" y="3.9375" />
-              <point x="69.0" y="215.5" />
-              <point x="-35.5" y="-0.0" />
-            </edge>
-            <edge source="org.glassfish.jaxb:jaxb-runtime:jar:2.3.0" target="org.glassfish.jaxb:jaxb-runtime:jar:2.3.0/org.jvnet.staxex:stax-ex:jar:1.7.8">
-              <point x="48.5" y="-0.0" />
-              <point x="-32.5" y="-0.0" />
-            </edge>
-            <edge source="org.glassfish.jaxb:jaxb-runtime:jar:2.3.0/org.glassfish.jaxb:jaxb-core:jar:2.3.0" target="javax.xml.bind:jaxb-api:jar:2.3.1">
-              <point x="-39.5" y="-5.25" />
-              <point x="280.0" y="235.0" />
-              <point x="260.0" y="220.75" />
-              <point x="35.5" y="5.25" />
-            </edge>
-            <edge source="org.glassfish.jaxb:jaxb-runtime:jar:2.3.0/org.glassfish.jaxb:jaxb-core:jar:2.3.0" target="org.glassfish.jaxb:jaxb-runtime:jar:2.3.0/org.glassfish.jaxb:jaxb-core:jar:2.3.0/com.sun.istack:istack-commons-runtime:jar:3.0.5">
-              <point x="39.5" y="5.25" />
-              <point x="414.0" y="245.5" />
-              <point x="-84.0" y="-0.0" />
-            </edge>
-            <edge source="com.lh.ec.service:item:0.0.1-SNAPSHOT" target="org.projectlombok:lombok:jar:1.18.8">
-              <point x="24.5" y="-3.9375" />
-              <point x="69.0" y="92.5" />
-              <point x="-34.5" y="-0.0" />
-            </edge>
-            <edge source="com.lh.ec.service:item:0.0.1-SNAPSHOT" target="org.springframework.boot:spring-boot-starter-data-jpa:jar:2.1.8.RELEASE">
-              <point x="24.5" y="-9.1875" />
-              <point x="-95.5" y="-0.0" />
-            </edge>
-            <edge source="javax.xml.bind:jaxb-api:jar:2.3.1" target="javax.xml.bind:jaxb-api:jar:2.3.1/javax.activation:javax.activation-api:jar:1.2.0">
-              <point x="35.5" y="-5.25" />
-              <point x="260.0" y="210.25" />
-              <point x="-67.0" y="-0.0" />
-            </edge>
-            <edge source="com.lh.ec.service:item:0.0.1-SNAPSHOT" target="javax.activation:activation:jar:1.1.1">
-              <point x="24.5" y="9.1875" />
-              <point x="69.0" y="322.25" />
-              <point x="-39.5" y="-0.0" />
-            </edge>
-            <edge source="com.lh.ec.service:item:0.0.1-SNAPSHOT" target="junit:junit:jar:4.12">
-              <point x="24.5" y="-1.3125" />
-              <point x="69.0" y="133.5" />
-              <point x="-24.0" y="-0.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="221.0" y="220.0" />
-          <SelectedNodes>
-            <node>org.springframework.boot:spring-boot-starter-data-jpa:jar:2.1.8.RELEASE</node>
-            <node>javax.activation:activation:jar:1.1.1</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>All</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://MAVEN/com.lh:dome:0.0.1-SNAPSHOT">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>MAVEN</ID>
-          <OriginalElement>com.lh:dome:0.0.1-SNAPSHOT</OriginalElement>
-          <nodes>
-            <node x="0.0" y="169.25">com.lh:dome:0.0.1-SNAPSHOT</node>
-            <node x="78.0" y="328.0">org.springframework.boot:spring-boot-starter-data-jpa:jar:unknown</node>
-            <node x="114.5" y="287.0">org.apache.commons:commons-lang3:jar:3.4</node>
-            <node x="139.0" y="246.0">org.projectlombok:lombok:jar:1.18.8</node>
-            <node x="149.5" y="205.0">junit:junit:jar:4.12</node>
-            <node x="302.0" y="205.0">junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3</node>
-            <node x="138.0" y="148.0078125">javax.xml.bind:jaxb-api:jar:2.3.1</node>
-            <node x="289.0" y="164.0">javax.xml.bind:jaxb-api:jar:2.3.1/javax.activation:javax.activation-api:jar:1.2.0</node>
-            <node x="134.5" y="41.0">com.sun.xml.bind:jaxb-impl:jar:2.3.0</node>
-            <node x="125.0" y="82.0">org.glassfish.jaxb:jaxb-runtime:jar:2.3.0</node>
-            <node x="316.5" y="123.0">org.glassfish.jaxb:jaxb-runtime:jar:2.3.0/org.glassfish.jaxb:jaxb-core:jar:2.3.0</node>
-            <node x="502.0" y="143.5">org.glassfish.jaxb:jaxb-runtime:jar:2.3.0/org.glassfish.jaxb:jaxb-core:jar:2.3.0/org.glassfish.jaxb:txw2:jar:2.3.1</node>
-            <node x="443.0" y="102.5">org.glassfish.jaxb:jaxb-runtime:jar:2.3.0/org.glassfish.jaxb:jaxb-core:jar:2.3.0/com.sun.istack:istack-commons-runtime:jar:3.0.5</node>
-            <node x="323.5" y="82.0">org.glassfish.jaxb:jaxb-runtime:jar:2.3.0/org.jvnet.staxex:stax-ex:jar:1.7.8</node>
-            <node x="312.5" y="41.0">org.glassfish.jaxb:jaxb-runtime:jar:2.3.0/com.sun.xml.fastinfoset:FastInfoset:jar:1.2.13</node>
-            <node x="134.0" y="0.0">javax.activation:activation:jar:1.1.1</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.lh:dome:0.0.1-SNAPSHOT" target="com.sun.xml.bind:jaxb-impl:jar:2.3.0">
-              <point x="29.0" y="-6.5625" />
-              <point x="78.0" y="51.5" />
-              <point x="-39.0" y="-0.0" />
-            </edge>
-            <edge source="org.glassfish.jaxb:jaxb-runtime:jar:2.3.0/org.glassfish.jaxb:jaxb-core:jar:2.3.0" target="org.glassfish.jaxb:jaxb-runtime:jar:2.3.0/org.glassfish.jaxb:jaxb-core:jar:2.3.0/org.glassfish.jaxb:txw2:jar:2.3.1">
-              <point x="39.5" y="5.25" />
-              <point x="423.0" y="138.75" />
-              <point x="443.0" y="154.0" />
-              <point x="-25.0" y="-0.0" />
-            </edge>
-            <edge source="com.lh:dome:0.0.1-SNAPSHOT" target="junit:junit:jar:4.12">
-              <point x="29.0" y="1.3125" />
-              <point x="78.0" y="215.5" />
-              <point x="-24.0" y="-0.0" />
-            </edge>
-            <edge source="com.lh:dome:0.0.1-SNAPSHOT" target="javax.xml.bind:jaxb-api:jar:2.3.1">
-              <point x="29.0" y="-1.3125" />
-              <point x="78.0" y="158.5078125" />
-              <point x="-35.5" y="-0.0" />
-            </edge>
-            <edge source="org.glassfish.jaxb:jaxb-runtime:jar:2.3.0" target="org.glassfish.jaxb:jaxb-runtime:jar:2.3.0/org.glassfish.jaxb:jaxb-core:jar:2.3.0">
-              <point x="48.5" y="7.0" />
-              <point x="269.0" y="99.5" />
-              <point x="289.0" y="128.25" />
-              <point x="-39.5" y="-5.25" />
-            </edge>
-            <edge source="org.glassfish.jaxb:jaxb-runtime:jar:2.3.0" target="org.glassfish.jaxb:jaxb-runtime:jar:2.3.0/com.sun.xml.fastinfoset:FastInfoset:jar:1.2.13">
-              <point x="48.5" y="-7.0" />
-              <point x="269.0" y="85.5" />
-              <point x="289.0" y="51.5" />
-              <point x="-43.5" y="-0.0" />
-            </edge>
-            <edge source="junit:junit:jar:4.12" target="junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3">
-              <point x="24.0" y="-0.0" />
-              <point x="-54.0" y="-0.0" />
-            </edge>
-            <edge source="org.glassfish.jaxb:jaxb-runtime:jar:2.3.0" target="org.glassfish.jaxb:jaxb-runtime:jar:2.3.0/org.jvnet.staxex:stax-ex:jar:1.7.8">
-              <point x="48.5" y="-0.0" />
-              <point x="-32.5" y="-0.0" />
-            </edge>
-            <edge source="org.glassfish.jaxb:jaxb-runtime:jar:2.3.0/org.glassfish.jaxb:jaxb-core:jar:2.3.0" target="org.glassfish.jaxb:jaxb-runtime:jar:2.3.0/org.glassfish.jaxb:jaxb-core:jar:2.3.0/com.sun.istack:istack-commons-runtime:jar:3.0.5">
-              <point x="39.5" y="-5.25" />
-              <point x="423.0" y="128.25" />
-              <point x="-84.0" y="-0.0" />
-            </edge>
-            <edge source="org.glassfish.jaxb:jaxb-runtime:jar:2.3.0/org.glassfish.jaxb:jaxb-core:jar:2.3.0" target="javax.xml.bind:jaxb-api:jar:2.3.1">
-              <point x="-39.5" y="5.25" />
-              <point x="289.0" y="138.75" />
-              <point x="269.0" y="153.2578125" />
-              <point x="35.5" y="-5.25" />
-            </edge>
-            <edge source="com.lh:dome:0.0.1-SNAPSHOT" target="org.glassfish.jaxb:jaxb-runtime:jar:2.3.0">
-              <point x="29.0" y="-3.9375" />
-              <point x="78.0" y="92.5" />
-              <point x="-48.5" y="-0.0" />
-            </edge>
-            <edge source="javax.xml.bind:jaxb-api:jar:2.3.1" target="javax.xml.bind:jaxb-api:jar:2.3.1/javax.activation:javax.activation-api:jar:1.2.0">
-              <point x="35.5" y="5.25" />
-              <point x="269.0" y="163.7578125" />
-              <point x="-67.0" y="-0.0" />
-            </edge>
-            <edge source="com.lh:dome:0.0.1-SNAPSHOT" target="javax.activation:activation:jar:1.1.1">
-              <point x="29.0" y="-9.1875" />
-              <point x="78.0" y="10.5" />
-              <point x="-39.5" y="-0.0" />
-            </edge>
-            <edge source="com.lh:dome:0.0.1-SNAPSHOT" target="org.springframework.boot:spring-boot-starter-data-jpa:jar:unknown">
-              <point x="29.0" y="9.1875" />
-              <point x="-95.5" y="-0.0" />
-            </edge>
-            <edge source="com.lh:dome:0.0.1-SNAPSHOT" target="org.apache.commons:commons-lang3:jar:3.4">
-              <point x="29.0" y="6.5625" />
-              <point x="78.0" y="297.5" />
-              <point x="-59.0" y="-0.0" />
-            </edge>
-            <edge source="com.lh:dome:0.0.1-SNAPSHOT" target="org.projectlombok:lombok:jar:1.18.8">
-              <point x="29.0" y="3.9375" />
-              <point x="78.0" y="256.5" />
-              <point x="-34.5" y="-0.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="220.0" y="268.0" />
-          <SelectedNodes>
-            <node>org.springframework.boot:spring-boot-starter-data-jpa:jar:unknown</node>
-            <node>javax.activation:activation:jar:1.1.1</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>All</VISIBILITY>
+        <state relative-caret-position="255">
+          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/item/item_interface/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        <state relative-caret-position="240">
+          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/item/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yaml" />
-    <entry file="file://$PROJECT_DIR$/item/item_service/src/main/java/com/ec/item/dao/impl/CategoryDaoImpl.java" />
     <entry file="file://$PROJECT_DIR$/item/item_service/src/main/java/com/ec/item/ItemApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        <state relative-caret-position="85">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/item/item_interface/src/main/java/com/lh/ec/item/pojo/Category.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="27" column="25" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="25" />
+        <state relative-caret-position="-139">
+          <caret line="18" selection-start-line="18" selection-end-line="18" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/item/item_service/src/main/java/com/ec/item/dao/CategoryDao.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/2.1.8.RELEASE/spring-data-jpa-2.1.8.RELEASE.jar!/org/springframework/data/jpa/repository/support/CrudMethodMetadataPostProcessor.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="93">
+          <caret line="179" selection-start-line="179" selection-end-line="179" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.1.7.RELEASE/spring-aop-5.1.7.RELEASE.jar!/org/springframework/aop/interceptor/ExposeInvocationInterceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.1.8.RELEASE/spring-data-commons-2.1.8.RELEASE-sources.jar!/org/springframework/data/repository/core/support/SurroundingTransactionDetectorMethodInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.1.7.RELEASE/spring-aop-5.1.7.RELEASE.jar!/org/springframework/aop/framework/JdkDynamicAopProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="136" selection-start-line="136" selection-end-line="136" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.7.RELEASE/spring-web-5.1.7.RELEASE.jar!/org/springframework/web/filter/RequestContextFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.7.RELEASE/spring-web-5.1.7.RELEASE.jar!/org/springframework/web/filter/OncePerRequestFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.19/tomcat-embed-core-9.0.19.jar!/org/apache/catalina/authenticator/AuthenticatorBase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="317" selection-start-line="317" selection-end-line="317" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.19/tomcat-embed-core-9.0.19.jar!/org/apache/catalina/core/StandardContextValve.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.19/tomcat-embed-core-9.0.19.jar!/org/apache/catalina/core/StandardWrapperValve.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="157" selection-start-line="157" selection-end-line="157" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.19/tomcat-embed-core-9.0.19.jar!/org/apache/catalina/core/ApplicationFilterChain.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.7.RELEASE/spring-webmvc-5.1.7.RELEASE.jar!/org/springframework/web/servlet/FrameworkServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="515" selection-start-line="515" selection-end-line="515" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.7.RELEASE/spring-webmvc-5.1.7.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="391" column="19" selection-start-line="391" selection-start-column="19" selection-end-line="391" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.7.RELEASE/spring-webmvc-5.1.7.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="566" selection-start-line="566" selection-end-line="566" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.19/tomcat-embed-core-9.0.19.jar!/org/apache/catalina/core/StandardHostValve.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.19/tomcat-embed-core-9.0.19.jar!/org/apache/catalina/core/StandardEngineValve.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.19/tomcat-embed-core-9.0.19.jar!/org/apache/catalina/valves/ErrorReportValve.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/5.1.7.RELEASE/spring-tx-5.1.7.RELEASE.jar!/org/springframework/transaction/interceptor/TransactionAspectSupport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="176" selection-start-line="176" selection-end-line="176" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.1.8.RELEASE/spring-data-commons-2.1.8.RELEASE-sources.jar!/org/springframework/data/repository/core/support/RepositoryFactorySupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="645" selection-start-line="645" selection-end-line="645" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/2.1.8.RELEASE/spring-data-jpa-2.1.8.RELEASE.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="365" selection-start-line="365" selection-end-line="365" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/5.1.7.RELEASE/spring-tx-5.1.7.RELEASE.jar!/org/springframework/dao/support/PersistenceExceptionTranslationInterceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/item/item_interface/src/main/java/com/lh/ec/item/pojo/Brand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-27">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -959,245 +1180,200 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/item/item_service/src/main/java/com/ec/item/service/impl/CategoryServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="24" column="68" lean-forward="true" selection-start-line="24" selection-start-column="68" selection-end-line="24" selection-end-column="68" />
+        <state relative-caret-position="173">
+          <caret line="24" column="68" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="68" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lh/dome/BootApplication.java" />
-    <entry file="file://$PROJECT_DIR$/eureka_server/src/main/java/com/lh/eureka/EurekaServer.java" />
-    <entry file="file://$PROJECT_DIR$/ec-registry/src/main/resources/application.yml">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.7.RELEASE/spring-web-5.1.7.RELEASE.jar!/org/springframework/http/HttpStatus.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        <state relative-caret-position="73">
+          <caret line="79" column="25" selection-start-line="79" selection-start-column="4" selection-end-line="79" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/item/item_service/src/main/java/com/ec/item/web/CategoryController.java">
+    <entry file="file://$PROJECT_DIR$/item/item_service/src/main/java/com/ec/item/service/BrandService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="141">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.1.5.RELEASE/spring-boot-starter-parent-2.1.5.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.1.5.RELEASE/spring-boot-dependencies-2.1.5.RELEASE.pom">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="1151" column="6" selection-start-line="1151" selection-start-column="6" selection-end-line="1151" selection-end-column="6" />
+        <state relative-caret-position="-166">
+          <caret line="116" column="7" selection-start-line="116" selection-start-column="5" selection-end-line="116" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/item/item_service/item_service.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-360" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/item/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/item/item_service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-test/2.1.5.RELEASE/spring-boot-starter-test-2.1.5.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1920" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="64" column="36" selection-start-line="64" selection-start-column="36" selection-end-line="64" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/item/item_service/src/test/java/service_test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/item/item_service/src/main/java/com/ec/item/repository/BrandRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#0#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/item/item_service/src/main/java/com/ec/item/service/impl/BrandServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="64" column="5" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#findBrandByPage#0;class#BrandServiceImpl#0" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/item/item_service/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="180">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ec-gateway/src/main/java/com/ec/gateway/Gateway.java">
+    <entry file="file://$PROJECT_DIR$/item/item_service/src/main/java/com/ec/item/web/BrandController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        <state relative-caret-position="-243">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ec-gateway/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="76" column="45" selection-start-line="76" selection-start-column="45" selection-end-line="76" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ec-gateway/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="16" column="70" selection-start-line="16" selection-start-column="70" selection-end-line="16" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="270" column="6" selection-start-line="270" selection-start-column="6" selection-end-line="270" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.7.RELEASE/spring-web-5.1.7.RELEASE.jar!/org/springframework/web/cors/CorsConfiguration.class">
+    <entry file="file://$PROJECT_DIR$/ec_upload/src/main/java/com/ec/upload/config/UploadProperties.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.7.RELEASE/spring-web-5.1.7.RELEASE.jar!/org/springframework/web/cors/CorsConfigurationSource.class">
+    <entry file="file://$PROJECT_DIR$/ec_upload/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        <state relative-caret-position="380">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.7.RELEASE/spring-web-5.1.7.RELEASE.jar!/org/springframework/web/cors/UrlBasedCorsConfigurationSource.class">
+    <entry file="file://$PROJECT_DIR$/ec_common/src/main/java/com/lh/ec/common/enums/ExceptionEnum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-20">
-          <caret line="19" column="62" lean-forward="true" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.7.RELEASE/spring-web-5.1.7.RELEASE.jar!/org/springframework/web/cors/DefaultCorsProcessor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.7.RELEASE/spring-web-5.1.7.RELEASE.jar!/org/springframework/web/util/WebUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="384" selection-start-line="384" selection-end-line="384" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.7.RELEASE/spring-web-5.1.7.RELEASE.jar!/org/springframework/web/filter/CorsFilter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.7.RELEASE/spring-web-5.1.7.RELEASE.jar!/org/springframework/web/filter/GenericFilterBean.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="41" column="57" selection-start-line="41" selection-start-column="51" selection-end-line="41" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.7.RELEASE/spring-web-5.1.7.RELEASE.jar!/org/springframework/web/filter/RequestContextFilter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.7.RELEASE/spring-web-5.1.7.RELEASE.jar!/org/springframework/web/filter/FormContentFilter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="59" selection-start-line="59" selection-end-line="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.7.RELEASE/spring-web-5.1.7.RELEASE.jar!/org/springframework/web/filter/HiddenHttpMethodFilter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.7.RELEASE/spring-web-5.1.7.RELEASE.jar!/org/springframework/web/filter/CharacterEncodingFilter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="86" selection-start-line="86" selection-end-line="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.19/tomcat-embed-core-9.0.19.jar!/org/apache/catalina/core/ApplicationFilterChain.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="74" selection-start-line="74" selection-end-line="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.19/tomcat-embed-core-9.0.19.jar!/org/apache/catalina/core/StandardWrapperValve.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="209" selection-start-line="209" selection-end-line="209" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.19/tomcat-embed-core-9.0.19.jar!/org/apache/catalina/core/StandardContextValve.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.19/tomcat-embed-core-9.0.19.jar!/org/apache/catalina/core/StandardHostValve.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.19/tomcat-embed-core-9.0.19.jar!/org/apache/catalina/valves/ErrorReportValve.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="67" selection-start-line="67" selection-end-line="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.19/tomcat-embed-core-9.0.19.jar!/org/apache/catalina/core/StandardEngineValve.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.19/tomcat-embed-core-9.0.19.jar!/org/apache/catalina/connector/CoyoteAdapter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="436" selection-start-line="436" selection-end-line="436" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.19/tomcat-embed-core-9.0.19.jar!/org/apache/coyote/http11/Http11Processor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="254" selection-start-line="254" selection-end-line="254" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.19/tomcat-embed-core-9.0.19.jar!/org/apache/catalina/authenticator/AuthenticatorBase.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="317" selection-start-line="317" selection-end-line="317" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-actuator/2.1.5.RELEASE/spring-boot-actuator-2.1.5.RELEASE.jar!/org/springframework/boot/actuate/metrics/web/servlet/WebMvcMetricsFilter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.7.RELEASE/spring-web-5.1.7.RELEASE.jar!/org/springframework/web/filter/OncePerRequestFilter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="240">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ec-gateway/src/main/java/com/ec/gateway/config/GlobalCorsConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="16" column="59" lean-forward="true" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+        <state relative-caret-position="-231">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ec-gateway/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ec_upload/src/main/java/com/ec/upload/UploadApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ec_upload/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ec_upload/src/main/java/com/ec/upload/service/UploadService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ec_upload/src/main/java/com/ec/upload/service/impl/UploadServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="49" column="25" lean-forward="true" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.7.RELEASE/spring-web-5.1.7.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ec_upload/src/main/java/com/ec/upload/web/UploadController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1265,7 +1441,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>dome</last-edited>
+          <last-edited>ec-registry</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -13,6 +13,7 @@
       <set>
         <option value="$PROJECT_DIR$/Eureka_Server/pom.xml" />
         <option value="$PROJECT_DIR$/eureka_server/pom.xml" />
+        <option value="$PROJECT_DIR$/user_consumer/pom.xml" />
       </set>
     </option>
   </component>

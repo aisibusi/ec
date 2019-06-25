@@ -14,6 +14,10 @@ zuul:
   prefix: /api
   routes:
     item_service: /item/**
+    upload_service:
+      path: /upload/**
+      service: upload_service
+      strip-prefix: false
 hystrix:
   command:
     default:

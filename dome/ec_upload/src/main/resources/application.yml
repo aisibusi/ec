@@ -1,0 +1,30 @@
+server:
+  port: 8102
+spring:
+  application:
+    name: upload_service
+  servlet:
+    multipart:
+      max-file-size: 5MB
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    service-url:
+      defaultZone: http://${eureka.instance.hostname}:8100/eureka
+
+ec:
+  upload:
+    allowTypes:
+      - image/jpeg
+      - image/png
+      - image/bmp
+    baseUrl: http://image.ec.com/
+fdfs:
+  connect-timeout: 600
+  so-timeout: 2500
+  thumb-image:
+    height: 60
+    width: 60
+  tracker-list:
+    - 192.168.82.100:22122
