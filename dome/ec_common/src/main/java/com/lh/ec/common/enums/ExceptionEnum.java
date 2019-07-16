@@ -7,8 +7,13 @@ public enum ExceptionEnum {
     CATEGORY_NOT_FOUND(HttpStatus.NO_CONTENT.value(), "Cannot get the category"),
     BRAND_NOT_FOUND(HttpStatus.NO_CONTENT.value(), "Cannot get the brand"),
     FAIL_TO_SAVE_BRAND(HttpStatus.INTERNAL_SERVER_ERROR.value(), "Cannot create the brand"),
-    INVALID_FILE_FORMAT(400, "The type of the file is incorrect"),
-    UPLOAD_IMAGE_EXCEPTION(500, "Exception for uploading the file"),;
+    INVALID_FILE_FORMAT(HttpStatus.BAD_REQUEST.value(), "The type of the file is incorrect"),
+    UPLOAD_IMAGE_EXCEPTION(HttpStatus.INTERNAL_SERVER_ERROR.value(), "Exception for uploading the file"),
+    FAIL_TO_UPDATE_BRAND(HttpStatus.INTERNAL_SERVER_ERROR.value(), "Failed to update the brand information"),
+    SPEC_GROUP_NOT_FOUND(HttpStatus.NO_CONTENT.value(), "Cannot get the Specification Group"),
+    SPEC_PARAMS_NOT_FOUND(HttpStatus.NO_CONTENT.value(), "Cannot get the Specification Params"),
+    FAIL_TO_SAVE_SPECPARAM(HttpStatus.INTERNAL_SERVER_ERROR.value(), "Cannot save the specification params"),
+    FAIL_TO_DELETE_SPECPARAM(HttpStatus.INTERNAL_SERVER_ERROR.value(), "Cannot delete the specification params");
     private int code;
     private String msg;
 

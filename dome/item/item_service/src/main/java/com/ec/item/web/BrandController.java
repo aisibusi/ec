@@ -6,9 +6,6 @@ import com.lh.ec.common.vo.PageResult;
 import com.lh.ec.item.pojo.Brand;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
-import org.springframework.data.domain.PageRequest;
-import org.springframework.data.domain.Pageable;
-import org.springframework.data.domain.Sort;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
@@ -52,5 +49,19 @@ public class BrandController {
     public ResponseEntity<Void> createBrand(Brand brand, @RequestParam("cids") List<Long> cids){
         brandService.save(brand, cids);
         return new ResponseEntity<>(HttpStatus.CREATED);
+    }
+
+    @PutMapping
+    public ResponseEntity<Void> updateBrand(Brand brand, @RequestParam("cids") List<Long> cids){
+
+        brandService.updateBrand(brand, cids);
+        return ResponseEntity.ok().build();
+    }
+
+    @DeleteMapping
+    public ResponseEntity<Void> deleteBrand(){
+        //TODO
+//        brandService.delete(brand);
+        return ResponseEntity.ok().build();
     }
 }

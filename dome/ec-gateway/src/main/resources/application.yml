@@ -18,6 +18,8 @@ zuul:
       path: /upload/**
       service: upload_service
       strip-prefix: false
+  ignored-services:
+    - upload_service
 hystrix:
   command:
     default:

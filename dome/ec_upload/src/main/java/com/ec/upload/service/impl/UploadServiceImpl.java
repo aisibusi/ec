@@ -44,7 +44,7 @@ public class UploadServiceImpl implements UploadService {
         }
 
         //Save the file to the target place
-        String path = this.getClass().getClassLoader().getResource("/").getFile();
+        String path = "D:/Haye/develop/workspace/dome/ec_upload/src/main/resources/static/";
         log.trace("The path is " + path);
         File dir = new File(path);
         if(!dir.exists())
