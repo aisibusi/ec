@@ -5,12 +5,10 @@
     <file url="file://$PROJECT_DIR$/ec-gateway" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ec-registry" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ec_common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ec_search" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ec_upload" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/eureka_server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/item" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/item/item_interface" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/item/item_service" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/user_consumer" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/user_service" charset="UTF-8" />
   </component>
 </project>

@@ -7,13 +7,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ec_upload" />
+        <module name="ec_search" />
         <module name="item_service" />
-        <module name="ec-gateway" />
+        <module name="ec_upload" />
         <module name="ec-registry" />
         <module name="ec_common" />
         <module name="item_interface" />
         <module name="user_service" />
+        <module name="ec-gateway" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -21,6 +22,7 @@
       <module name="ec-gateway" target="11" />
       <module name="ec-registry" target="11" />
       <module name="ec_common" target="11" />
+      <module name="ec_search" target="11" />
       <module name="ec_upload" target="11" />
       <module name="eureka_server" target="11" />
       <module name="Eureka_Server" target="11" />
@@ -38,6 +40,7 @@
       <module name="ec-gateway" options="-parameters" />
       <module name="ec-registry" options="-parameters" />
       <module name="ec_common" options="-parameters" />
+      <module name="ec_search" options="-parameters" />
       <module name="ec_upload" options="-parameters" />
       <module name="eureka_server" options="-parameters" />
       <module name="item" options="-parameters" />

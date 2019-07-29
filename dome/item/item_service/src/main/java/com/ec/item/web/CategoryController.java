@@ -30,4 +30,24 @@ public class CategoryController {
     public ResponseEntity<List<Category>> queryCategoryByBid(@PathVariable("bid") Long bid){
         return ResponseEntity.ok(brandService.findCategoriesByBid(bid));
     }
+
+    /**
+     * 根据商品分类Ids查询分类
+     * @param ids
+     * @return
+     */
+    @GetMapping("list/ids")
+    public ResponseEntity<List<Category>> queryCategoryByIds(@RequestParam("ids") List<Long> ids) {
+        return ResponseEntity.ok(categoryService.queryCategoryByIds(ids));
+    }
+
+    /**
+     * 根据cid3查询三级分类
+     * @param id
+     * @return
+     */
+    @GetMapping("all/level")
+    public ResponseEntity<List<Category>> queryAllByCid3(@RequestParam("id") Long id) {
+        return ResponseEntity.ok(categoryService.queryAllByCid3(id));
+    }
 }

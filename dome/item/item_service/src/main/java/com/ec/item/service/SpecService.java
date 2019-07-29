@@ -15,5 +15,9 @@ public interface SpecService {
     void saveSpecParam(SpecParam specParam);
 
     void deleteSpecParam(Long id);
+
+    List<SpecGroup> findSpecsByCid(Long cid);
+
+    List<SpecParam> querySpecParams(Long gid, Long cid, Boolean searching, Boolean generic);
 }
 

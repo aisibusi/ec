@@ -13,7 +13,8 @@ eureka:
 zuul:
   prefix: /api
   routes:
-    item_service: /item/**
+    item-service: /item/**
+    search-service: /search/**
     upload_service:
       path: /upload/**
       service: upload_service
@@ -26,10 +27,10 @@ hystrix:
       execution:
         isolation:
           thread:
-            timeoutInMilliseconds: 8000
+            timeoutInMilliseconds: 600000
 ribbon:
-  ConnectTimeout: 1000
-  ReadTimeout: 3500
+  ConnectTimeout: 17000
+  ReadTimeout: 17500
   MaxAutoRetries: 0
   MaxAutoRetriesNextServer: 0
 

@@ -3,6 +3,12 @@ package com.lh.ec.common.enums;
 import org.springframework.http.HttpStatus;
 
 public enum ExceptionEnum {
+    INVALID_PARAM(HttpStatus.BAD_REQUEST.value(), "Error for the param"),
+    SPEC_PARAM_NOT_FOUND(HttpStatus.NO_CONTENT.value(), "Cannot get the specification parameters"),
+    INVENTORY_NOT_FOUND(HttpStatus.NO_CONTENT.value(), "Cannot get the inventory"),
+    GOODS_NOT_FOUND(HttpStatus.NO_CONTENT.value(), "Cannot get the goods"),
+    SKU_NOT_FOUND(HttpStatus.NO_CONTENT.value(), "Cannot get the SKU"),
+    SPU_NOT_FOUND(HttpStatus.NO_CONTENT.value(), "Cannot get the SPU"),
     PRICE_CANNOT_BE_NULL(HttpStatus.BAD_REQUEST.value(),"PRICE_CANNOT_BE_NULL"),
     CATEGORY_NOT_FOUND(HttpStatus.NO_CONTENT.value(), "Cannot get the category"),
     BRAND_NOT_FOUND(HttpStatus.NO_CONTENT.value(), "Cannot get the brand"),

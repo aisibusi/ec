@@ -2,7 +2,7 @@ server:
   port: 8101
 spring:
   application:
-    name: item_service
+    name: item-service
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://${eureka.instance.hostname}:3306/ec?useSSL=true&serverTimezone=GMT

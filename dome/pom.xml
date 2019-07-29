@@ -12,6 +12,7 @@
 		<module>item</module>
 		<module>ec_common</module>
         <module>ec_upload</module>
+        <module>ec_search</module>
     </modules>
 
 	<parent>

@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/ec-gateway/ec-gateway.iml" filepath="$PROJECT_DIR$/ec-gateway/ec-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/ec-registry/ec-registry.iml" filepath="$PROJECT_DIR$/ec-registry/ec-registry.iml" />
       <module fileurl="file://$PROJECT_DIR$/ec_common/ec_common.iml" filepath="$PROJECT_DIR$/ec_common/ec_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ec_search/ec_search.iml" filepath="$PROJECT_DIR$/ec_search/ec_search.iml" />
       <module fileurl="file://$PROJECT_DIR$/ec_upload/ec_upload.iml" filepath="$PROJECT_DIR$/ec_upload/ec_upload.iml" />
       <module fileurl="file://$PROJECT_DIR$/item/item.iml" filepath="$PROJECT_DIR$/item/item.iml" />
       <module fileurl="file://$PROJECT_DIR$/item/item_interface/item_interface.iml" filepath="$PROJECT_DIR$/item/item_interface/item_interface.iml" />

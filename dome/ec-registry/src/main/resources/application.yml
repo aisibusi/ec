@@ -2,7 +2,7 @@ server:
   port: 8100
 spring:
   application:
-    name: ec_registry_server
+    name: ec-registry-server
 eureka:
   instance:
     hostname: localhost

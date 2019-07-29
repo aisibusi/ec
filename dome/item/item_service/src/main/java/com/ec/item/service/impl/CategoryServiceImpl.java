@@ -9,6 +9,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.util.CollectionUtils;
 
+import java.util.Arrays;
 import java.util.List;
 
 @Service
@@ -30,11 +31,19 @@ public class CategoryServiceImpl implements CategoryService {
 
     @Override
     public List<Category> queryCategoryByIds(List<Long> ids) {
-        return null;
+        return categoryRepository.findAllById(ids);
+
     }
 
     @Override
     public List<Category> queryAllByCid3(Long id) {
-        return null;
+        Category c3 = categoryRepository.getOne(id);
+        Category c2 = categoryRepository.getOne(c3.getParentId());
+        Category c1 = categoryRepository.getOne(c2.getParentId());
+        List<Category> list = Arrays.asList(c1, c2, c3);
+        if (CollectionUtils.isEmpty(list)) {
+            throw new EcException(ExceptionEnum.CATEGORY_NOT_FOUND);
+        }
+        return list;
     }
 }

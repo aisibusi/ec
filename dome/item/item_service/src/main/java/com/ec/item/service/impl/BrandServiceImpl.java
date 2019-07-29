@@ -97,4 +97,24 @@ public class BrandServiceImpl implements BrandService {
             throw new EcException(ExceptionEnum.FAIL_TO_UPDATE_BRAND);
         }
     }
+
+    @Override
+    public Brand queryBrandByBid(Long id) {
+//        Brand brand = new Brand();
+//        brand.setId(id);
+        Brand b1 = brandRepository.getOne(id);
+        if (b1 == null) {
+            throw new EcException(ExceptionEnum.BRAND_NOT_FOUND);
+        }
+        return b1;
+    }
+
+    @Override
+    public List<Brand> queryBrandByIds(List<Long> ids) {
+        List<Brand> brands = brandRepository.findAllById(ids);
+        if (CollectionUtils.isEmpty(brands)) {
+            throw new EcException(ExceptionEnum.BRAND_NOT_FOUND);
+        }
+        return brands;
+    }
 }

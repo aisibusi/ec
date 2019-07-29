@@ -23,6 +23,13 @@ public class GlobalCorsConfig {
         config.addAllowedOrigin("https://localhost");
         config.addAllowedOrigin("http://localhost:9001");
         config.addAllowedOrigin("http://127.0.0.1:9001");
+        config.addAllowedOrigin("http://localhost:9002");
+        config.addAllowedOrigin("http://127.0.0.1:9002");
+
+        //config.addAllowedOrigin("http://manage.ec.com");
+        config.addAllowedOrigin("http://www.leyou.com");
+        config.addAllowedOrigin("http://api.leyou.com");
+        config.addAllowedOrigin("https://api.leyou.com");
         //2) 是否发送Cookie信息
         config.setAllowCredentials(true);
         //3) 允许的请求方式

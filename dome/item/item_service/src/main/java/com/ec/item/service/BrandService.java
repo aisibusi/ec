@@ -14,4 +14,8 @@ public interface BrandService {
     List<Category> findCategoriesByBid(Long bid);
 
     void updateBrand(Brand brand, List<Long> cids);
+
+    Brand queryBrandByBid(Long id);
+
+    List<Brand> queryBrandByIds(List<Long> ids);
 }

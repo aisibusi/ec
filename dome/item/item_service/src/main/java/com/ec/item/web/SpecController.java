@@ -26,10 +26,16 @@ public class SpecController {
         return ResponseEntity.ok(specService.findByCId(cid));
     }
 
-    @GetMapping("params")
-    public ResponseEntity<List<SpecParam>> findSpecParamByGId(@RequestParam(value = "gid", required = false) Long gid){
 
-        return ResponseEntity.ok(specService.findParamByGId(gid));
+
+    @GetMapping("params")
+    public ResponseEntity<List<SpecParam>> querySpecParams(
+            @RequestParam(value = "gid", required = false) Long gid,
+            @RequestParam(value = "cid", required = false) Long cid,
+            @RequestParam(value = "searching", required = false) Boolean searching,
+            @RequestParam(value = "generic", required = false) Boolean generic
+    ) {
+        return ResponseEntity.ok(specService.querySpecParams(gid, cid, searching, generic));
     }
 
     @PostMapping("param")
@@ -52,5 +58,11 @@ public class SpecController {
             log.info(e.getExceptionEnum().getMsg());
         }
         return ResponseEntity.ok().build();
+    }
+
+    @GetMapping("{cid}")
+    public ResponseEntity<List<SpecGroup>> findSpecsByCid(@PathVariable("cid") Long cid) {
+        //todo
+        return ResponseEntity.ok(specService.findSpecsByCid(cid));
     }
 }
