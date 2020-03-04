@@ -23,7 +23,7 @@
 	<properties>
 		<spring-cloud.version>Greenwich.SR1</spring-cloud.version>
 		<mysql.version>8.0.12</mysql.version>
-		<jackson.version>2.9.9</jackson.version>
+		<jackson.version>2.9.10.3</jackson.version>
 		<fastDFS.version>1.26.6</fastDFS.version>
 		<maven.compiler.source>11</maven.compiler.source>
 		<maven.compiler.target>11</maven.compiler.target>
